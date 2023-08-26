@@ -4,4 +4,4 @@
 
 ![video](visuales_github/video_2.gif) 
 
-![WelcomeScreen](images/screenshot.png)
+![WelcomeScreen](visuales_github/screenshot.jpeg)
